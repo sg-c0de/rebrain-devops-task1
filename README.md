@@ -24,14 +24,14 @@ $ yum install nginx
 
 ## Release history
 
-Version | Description
-_______ | ___________
-v1.0 | This version adds nginx config file
-future releases | to be continued...
+| Version | Description |
+| ------- | ----------- |
+| v1.0 | This version adds nginx config file |
+| future releases | to be continued... |
 
 ## Cool image for motivation
 
-![Pip-boy] (http://img3.wikia.nocookie.net/__cb20140508215704/adventuretimewithfinnandjake/images/b/b6/Fallout_PIP-Boy.jpg)
+![Pip-boy](http://img3.wikia.nocookie.net/__cb20140508215704/adventuretimewithfinnandjake/images/b/b6/Fallout_PIP-Boy.jpg)
 
 ## Repository
 
